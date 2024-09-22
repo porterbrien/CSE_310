@@ -1,6 +1,6 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+making new changes to this readme as a test
 
 This is a hello world program designed to show that I can connect to my github repository
 
