@@ -14,6 +14,5 @@ Python is a popular general purpose language. For me, this was the first languag
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * Python Website: https://www.python.org/
 * Canvas instructions: https://byui-cse.github.io/cse310-course/lesson01/01-prove_campus.html
