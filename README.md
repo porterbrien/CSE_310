@@ -1,14 +1,10 @@
 # Overview
 
-making new changes to this readme as a test
-
 This is a hello world program designed to show that I can connect to my github repository
 
 My purpose is to print the "hello world" statement
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+https://youtu.be/UIzmBegOcJs
 
 # Development Environment
 
