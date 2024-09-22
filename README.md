@@ -1,7 +1,5 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
 This is a hello world program designed to show that I can connect to my github repository
 
 My purpose is to print the "hello world" statement
